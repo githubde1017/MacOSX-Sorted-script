@@ -1,3 +1,5 @@
+Github link files: https://github.com/githubde1017/MacOSX-Sorted-script/blob/main/sort_images_by_date.sh
+
 假設要將下載資料夾中的所有圖片檔，依照日期分類歸檔並建立各個日期的資料夾。
 
 請按照以下步驟執行：
